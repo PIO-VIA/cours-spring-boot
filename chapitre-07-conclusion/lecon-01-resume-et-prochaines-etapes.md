@@ -26,15 +26,17 @@ Au cours de ce voyage, nous avons exploré les piliers de Spring Boot :
 - **Chapitre 6 : Préparation à la Production**
   - Gestion des profils, monitoring avec Actuator, logging, sécurisation et conteneurisation avec Docker.
 
+- **Chapitre 8 : Tests Unitaires et d'Intégration**
+  - Apprentissage des tests pour chaque couche de l'application (Services, Contrôleurs, Repositories).
+
 ### Prochaines Étapes
 
 Le monde de Spring est vaste. Voici quelques pistes pour approfondir vos compétences :
 
-1.  **Tests** : Apprenez à écrire des tests unitaires et d'intégration pour vos applications Spring Boot avec JUnit 5, Mockito et `spring-boot-starter-test`.
-2.  **Spring WebFlux** : Explorez la programmation réactive pour construire des applications non bloquantes et plus performantes.
-3.  **Microservices** : Découvrez l'écosystème Spring Cloud pour construire des architectures microservices (Gateway, Service Discovery, Configuration centralisée).
-4.  **Sécurité Approfondie** : Plongez plus loin dans Spring Security pour gérer des cas d'usage complexes comme OAuth2, JWT, et des autorisations basées sur les rôles.
-5.  **Déploiement Continu (CI/CD)** : Mettez en place des pipelines automatisés avec des outils comme Jenkins, GitLab CI ou GitHub Actions pour builder, tester et déployer vos applications.
+1.  **Spring WebFlux** : Explorez la programmation réactive pour construire des applications non bloquantes et plus performantes.
+2.  **Microservices** : Découvrez l'écosystème Spring Cloud pour construire des architectures microservices (Gateway, Service Discovery, Configuration centralisée).
+3.  **Sécurité Approfondie** : Plongez plus loin dans Spring Security pour gérer des cas d'usage complexes comme OAuth2, JWT, et des autorisations basées sur les rôles.
+4.  **Déploiement Continu (CI/CD)** : Mettez en place des pipelines automatisés avec des outils comme Jenkins, GitLab CI ou GitHub Actions pour builder, tester et déployer vos applications.
 
 Le plus important est de continuer à pratiquer. Créez des projets personnels, contribuez à des projets open-source et ne cessez jamais d'apprendre.
 
