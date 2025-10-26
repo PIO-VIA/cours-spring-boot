@@ -48,4 +48,20 @@ Le cours est divisé en plusieurs chapitres, chacun contenant des leçons spéci
     *   [Leçon 3 : Relation Many-to-Many.](./chapitre-05-relations-entre-entites/lecon-03-relation-manytomany.md)
     *   [Leçon 4 : Relation One-to-One.](./chapitre-05-relations-entre-entites/lecon-04-relation-onetoone.md)
 
+*   **Chapitre 6 : Préparation à la Production**
+    *   [Leçon 1 : Gérer les profils Spring (`application.properties`).](./chapitre-06-preparation-a-la-production/lecon-01-profils-spring.md)
+    *   [Leçon 2 : Monitoring de l'application avec Actuator.](./chapitre-06-preparation-a-la-production/lecon-02-monitoring-actuator.md)
+    *   [Leçon 3 : Stratégies de logging.](./chapitre-06-preparation-a-la-production/lecon-03-gestion-des-logs.md)
+    *   [Leçon 4 : Introduction à la sécurité avec Spring Security.](./chapitre-06-preparation-a-la-production/lecon-04-securite-de-base.md)
+    *   [Leçon 5 : Empaqueter son application avec Docker.](./chapitre-06-preparation-a-la-production/lecon-05-dockerisation.md)
+
+*   **Chapitre 7 : Tests Unitaires et d'Intégration**
+    *   [Leçon 1 : Introduction aux tests dans Spring.](./chapitre-07-tests-unitaires/lecon-01-introduction-aux-tests.md)
+    *   [Leçon 2 : Tester la couche service (`@Service`).](./chapitre-07-tests-unitaires/lecon-02-tester-la-couche-service.md)
+    *   [Leçon 3 : Tester la couche web (`@WebMvcTest`).](./chapitre-07-tests-unitaires/lecon-03-tester-la-couche-web.md)
+    *   [Leçon 4 : Tester la couche de données (`@DataJpaTest`).](./chapitre-07-tests-unitaires/lecon-04-tester-la-couche-de-donnees.md)
+
+*   **Chapitre 8 : Conclusion**
+    *   [Leçon 1 : Résumé du cours et prochaines étapes.](./chapitre-08-conclusion/lecon-01-resume-et-prochaines-etapes.md)
+
 Ce projet est vivant et le contenu pourra évoluer. Commençons sans plus attendre avec le premier chapitre.
